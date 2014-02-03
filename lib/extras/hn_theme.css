@@ -1,7 +1,7 @@
 .hnspecial-settings-menu-inner .hnspecial-settings-tip button,html.hnspecial-theme .hnspecial-mark-all-as-read-container button,.hnspecial-fold-comment-button{font:inherit;-webkit-appearance:none;border:none;font-weight:200;background:none;cursor:pointer;margin:0;padding:0;color:#828282;}
 .hnspecial-settings-menu-inner .hnspecial-settings-tip button:hover,html.hnspecial-theme .hnspecial-mark-all-as-read-container button:hover,.hnspecial-fold-comment-button:hover{text-decoration:underline}
 .hnspecial-settings-menu-inner .hnspecial-settings-tip button,html.hnspecial-theme .hnspecial-mark-all-as-read-container button,html.hnspecial-theme .hnspecial-fold-comment-button{color:#ffac5b}
-html.hnspecial-theme input[type=submit],html.hnspecial-theme input[type=button],html.hnspecial-theme button.hnspecial-button{-webkit-appearance:none;font:15px/1.5 Helvetica Neue, Arial, sans-serif;padding:5px 8px;margin:0;font-weight:200;background:#ff8937;border:none;color:#fbf9f7;cursor:pointer;}
+html.hnspecial-theme input[type=submit],html.hnspecial-theme input[type=button],html.hnspecial-theme button.hnspecial-button{-webkit-appearance:none;font:15px/1.5 Helvetica Neue, Arial, sans-serif;padding:5px 8px;margin:0;font-weight:200;background:rgb(53, 180, 179);border:none;color:#fbf9f7;cursor:pointer;}
 html.hnspecial-theme input[type=submit]:active,html.hnspecial-theme input[type=button]:active,html.hnspecial-theme button.hnspecial-button:active{color:#fff;background:#ff7718}
 .hnspecial-infinite-pause{padding-left:5px;color:#828282 !important;}
 .hnspecial-infinite-pause:before{content:'|';margin-right:5px}
@@ -46,7 +46,7 @@ html.hnspecial-theme-preload body{display:none}
 html.hnspecial-theme body{display:block}
 html.hnspecial-theme,html.hnspecial-theme body{background:#fff;margin:0;padding:0;font:15px/1.5 Helvetica Neue, Arial, sans-serif;color:#555}
 html.hnspecial-theme u{text-decoration:none}
-html.hnspecial-theme a{color:#ffac5b;text-decoration:none}
+html.hnspecial-theme a{color:#35b4b3;text-decoration:none}
 html.hnspecial-theme a:hover{text-decoration:underline}
 html.hnspecial-theme p{line-height:1.5;margin:0;margin-bottom:1em;color:#555;font-weight:200;word-wrap:break-word}
 html.hnspecial-theme textarea{-webkit-appearance:none;border:1px solid #ccc;font:15px/1.5 Helvetica Neue, Arial, sans-serif;color:inherit;padding:5px 8px;margin:0;font-weight:200}
@@ -75,12 +75,12 @@ html.hnspecial-theme .hnspecial-theme-spacer{position:absolute;top:0;bottom:0;le
 html.hnspecial-theme div.votearrow{width:10px !important;height:10px !important}
 html.hnspecial-theme body > center{display:block;max-width:900px;margin:0 auto;}
 html.hnspecial-theme body > center > table{width:100%;}
-html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table{background:#ff8937;color:#ffdcc3;font-weight:100;width:100%;}
+html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table{background:#35B4B3;color:#ffdcc3;font-weight:100;width:100%;}
 html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table b{font-weight:inherit;margin:0}
 html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table td{padding:20px 0;}
 html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table td:first-child{width:30px;padding-left:25px;padding-right:10px;}
 html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table td:first-child a{display:block;width:30px;height:30px;background:#fff;border-radius:100%;}
-html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table td:first-child a:after{content:'Y';width:31px;height:30px;display:block;line-height:32px;text-align:center;font-size:22px;font-weight:200;color:#ff8937}
+html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table td:first-child a:after{content:'Y';width:31px;height:30px;display:block;line-height:32px;text-align:center;font-size:22px;font-weight:200;color:#35B4B3}
 html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table td:first-child a:hover{text-decoration:none}
 html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table td:first-child a img{display:none}
 html.hnspecial-theme body > center > table > tbody > tr:first-child > td > table td:nth-child(2) font{display:inline-block;overflow:hidden;letter-spacing:1px;max-width:140px;white-space:nowrap;text-overflow:ellipsis}
@@ -115,8 +115,8 @@ html.hnspecial-theme body > center > table > tbody > tr:nth-child(3) > td td.com
 html.hnspecial-theme body > center > table > tbody > tr:nth-child(3) > td td.title{padding:3px 0 5px 0;}
 html.hnspecial-theme body > center > table > tbody > tr:nth-child(3) > td td.title:last-child{width:100%}
 html.hnspecial-theme body > center > table > tbody > tr:nth-child(3) > td td.title + td{padding:0 13px 3px 10px}
-html.hnspecial-theme body > center > table > tbody > tr:nth-child(3) > td td.title a{color:#ff9227;}
-html.hnspecial-theme body > center > table > tbody > tr:nth-child(3) > td td.title a:visited{color:#ffbd7c}
+html.hnspecial-theme body > center > table > tbody > tr:nth-child(3) > td td.title a{color:#35b4b3;}
+html.hnspecial-theme body > center > table > tbody > tr:nth-child(3) > td td.title a:visited{color:#a2d5e4;}
 html.hnspecial-theme body > center > table > tbody > tr:nth-child(3) > td td.subtext{font-size:13px;padding-bottom:22px}
 html.hnspecial-theme body > center > table > tbody > tr:nth-child(4) > td{padding-top:30px;font-weight:200;font-size:13px;}
 html.hnspecial-theme body > center > table > tbody > tr:nth-child(4) > td .yclinks a{margin-right:10px}
@@ -139,7 +139,7 @@ html.hnspecial-theme.hnspecial-theme-sticky-header .hnspecial-mark-all-as-read-c
 html.hnspecial-theme.hnspecial-theme-sticky-header .hnspecial-mark-all-as-read-container button{color:#fff !important;font-weight:300 !important}
 html.hnspecial-theme.hnspecial-theme-sticky-header table:hover + .hnspecial-mark-all-as-read-container,html.hnspecial-theme.hnspecial-theme-sticky-header .hnspecial-mark-all-as-read-container:hover{height:35px}
 html.hnspecial-theme.hnspecial-theme-sticky-header body > center > table > tbody > tr:first-child{height:70px;}
-html.hnspecial-theme.hnspecial-theme-sticky-header body > center > table > tbody > tr:first-child > td{position:fixed;top:0;left:0;width:100%;z-index:10;background:#ff8937;}
+html.hnspecial-theme.hnspecial-theme-sticky-header body > center > table > tbody > tr:first-child > td{position:fixed;top:0;left:0;width:100%;z-index:10;background:#35B4B3;}
 html.hnspecial-theme.hnspecial-theme-sticky-header body > center > table > tbody > tr:first-child > td > table{max-width:900px;margin:0 auto}
 .hnspecial-mark-as-read-button{border:0;background-color:transparent;cursor:pointer;margin:0;margin-right:4px;padding:0 3px 0 0;-webkit-transition:color 150ms ease;}
 .hnspecial-mark-as-read-button:hover{color:#666}
